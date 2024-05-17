@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tejas W. Ghoradkar</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tejas+Ghoradkar!;" />
+</h1>
+</h1>
 <h3 align="center">Detail-oriented Data Analyst proficient in Python, Tableau, SQL, and data visualization. Experienced in creating data pipelines and dashboards to enhance decision-making and efficiency. Skilled at communicating complex insights to both technical and non-technical stakeholders, passionate about using data to drive business growth.</h3>
 
 - 🔭 I’m currently working on **Sales Dashboard on Tableau**
