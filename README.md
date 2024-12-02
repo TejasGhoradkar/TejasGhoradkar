@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Sales Dashboard on Tableau**
 
-- 💬 Ask me about **SQL, AWS, Power BI, Advance Excel**
+- 💬 Ask me about **SQL, Tableau, R- programming, AWS, Power BI, Advance Excel**
 
 - 📫 How to reach me **twghoradkar1998@gmail.com**
 
