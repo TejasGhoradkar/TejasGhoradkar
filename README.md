@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **twghoradkar1998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sGydOY83OKJkd3fPW5wYHxHdqDJx1nXE/view?usp=drive_link](https://drive.google.com/file/d/1sGydOY83OKJkd3fPW5wYHxHdqDJx1nXE/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sGydOY83OKJkd3fPW5wYHxHdqDJx1nXE/view?usp=drive_link](https://drive.google.com/file/d/1-84WulPvxKF1RIngJW8yT2L5qeEMhv-e/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
