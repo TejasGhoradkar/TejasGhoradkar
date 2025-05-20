@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">Detail-oriented Data Analyst proficient in Python, Tableau, SQL, and data visualization. Experienced in creating data pipelines and dashboards to enhance decision-making and efficiency. Skilled at communicating complex insights to both technical and non-technical stakeholders, passionate about using data to drive business growth.</h3>
 
-- 🔭 I’m currently working on **Sales Dashboard on Tableau**
+- 🔭 I’m currently working at **Technology World Creater**
 
 - 💬 Ask me about **SQL, Tableau, R- programming, AWS, Power BI, Advance Excel**
 
